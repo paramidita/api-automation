@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+API automation,,,,20-06-2025 23:26:36,20-06-2025 23:26:40,4.244s,PASSED
+,,,,,,,
+Test Cases/create new user,,,,20-06-2025 23:26:36,20-06-2025 23:26:39,3.005s,PASSED
+"sendRequest(findTestObject(""API method/create-new-user""))",,,,20-06-2025 23:26:37,20-06-2025 23:26:39,2.442s,PASSED
+,,,,,,,
+Test Cases/get list user,,,,20-06-2025 23:26:39,20-06-2025 23:26:40,0.196s,PASSED
+"sendRequest(findTestObject(""API method/Get-list-user""))",,,,20-06-2025 23:26:40,20-06-2025 23:26:40,0.088s,PASSED
+,,,,,,,
+Test Cases/get single user,,,,20-06-2025 23:26:40,20-06-2025 23:26:40,0.222s,PASSED
+"sendRequest(findTestObject(""API method/Get-single-user""))",,,,20-06-2025 23:26:40,20-06-2025 23:26:40,0.121s,PASSED

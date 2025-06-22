@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="API automation" time="4.144" tests="3" failures="0" errors="0">
+   <testsuite name="API automation" tests="3" failures="0" errors="0" time="4.144" skipped="0" timestamp="20-06-2025T23:26:36" hostname="param - LAPTOP-BL68E3T5" id="Test Suites/API automation">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\param\\Katalon Studio\\API automation\\Reports\\20250620_232629\\API automation\\20250620_232629"/>
+         <property name="logFiles" value="C:\\Users\\param\\Katalon Studio\\API automation\\Reports\\20250620_232629\\API automation\\20250620_232629\\console0.log, C:\\Users\\param\\Katalon Studio\\API automation\\Reports\\20250620_232629\\API automation\\20250620_232629\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="userFullName" value="Paramidita Nurul"/>
+         <property name="hostName" value="param - LAPTOP-BL68E3T5"/>
+         <property name="hostAddress" value="192.168.1.13"/>
+         <property name="projectName" value="API automation"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.2.1.0"/>
+      </properties>
+      <testcase name="Test Cases/create new user" time="3.005" classname="Test Cases/create new user" status="PASSED">
+         <system-out><![CDATA[20-06-2025T23:26:36 - [TEST_CASE][PASSED] - Test Cases/create new user: Test Cases/create new user
+
+20-06-2025T23:26:37 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API method/create-new-user")): Send request successfully
+
+20-06-2025T23:26:39 - [MESSAGE][INFO] - HAR: C:\Users\param\Katalon Studio\API automation\Reports\20250620_232629\API automation\20250620_232629\requests\main\create-new-user_0.har
+
+20-06-2025T23:26:39 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/get list user" time="0.196" classname="Test Cases/get list user" status="PASSED">
+         <system-out><![CDATA[20-06-2025T23:26:39 - [TEST_CASE][PASSED] - Test Cases/get list user: Test Cases/get list user
+
+20-06-2025T23:26:40 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API method/Get-list-user")): Send request successfully
+
+20-06-2025T23:26:40 - [MESSAGE][INFO] - HAR: C:\Users\param\Katalon Studio\API automation\Reports\20250620_232629\API automation\20250620_232629\requests\main\Get-list-user_1.har
+
+20-06-2025T23:26:40 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/get single user" time="0.222" classname="Test Cases/get single user" status="PASSED">
+         <system-out><![CDATA[20-06-2025T23:26:40 - [TEST_CASE][PASSED] - Test Cases/get single user: Test Cases/get single user
+
+20-06-2025T23:26:40 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API method/Get-single-user")): Send request successfully
+
+20-06-2025T23:26:40 - [MESSAGE][INFO] - HAR: C:\Users\param\Katalon Studio\API automation\Reports\20250620_232629\API automation\20250620_232629\requests\main\Get-single-user_2.har
+
+20-06-2025T23:26:40 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[20-06-2025T23:26:36 - [TEST_SUITE][PASSED] - API automation: Test Cases/get single user]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

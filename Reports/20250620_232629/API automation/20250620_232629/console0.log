@@ -1,0 +1,25 @@
+2025-06-20 23:26:36.056 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/API automation
+2025-06-20 23:26:36.211 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Paramidita Nurul
+2025-06-20 23:26:36.211 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = API automation
+2025-06-20 23:26:36.213 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = param - LAPTOP-BL68E3T5
+2025-06-20 23:26:36.213 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2025-06-20 23:26:36.214 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.1.13
+2025-06-20 23:26:36.215 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.2.1.0
+2025-06-20 23:26:36.881 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-06-20 23:26:36.881 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/create new user
+2025-06-20 23:26:37.444 DEBUG testcase.create new user                 - 1: sendRequest(findTestObject("API method/create-new-user"))
+2025-06-20 23:26:39.767 INFO  c.k.k.core.webservice.common.HarLogger   - HAR: C:\Users\param\Katalon Studio\API automation\Reports\20250620_232629\API automation\20250620_232629\requests\main\create-new-user_0.har
+2025-06-20 23:26:39.886 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/create new user
+2025-06-20 23:26:39.900 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-06-20 23:26:39.900 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/get list user
+2025-06-20 23:26:40.006 DEBUG testcase.get list user                   - 1: sendRequest(findTestObject("API method/Get-list-user"))
+2025-06-20 23:26:40.080 INFO  c.k.k.core.webservice.common.HarLogger   - HAR: C:\Users\param\Katalon Studio\API automation\Reports\20250620_232629\API automation\20250620_232629\requests\main\Get-list-user_1.har
+2025-06-20 23:26:40.095 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/get list user
+2025-06-20 23:26:40.101 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-06-20 23:26:40.101 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/get single user
+2025-06-20 23:26:40.198 DEBUG testcase.get single user                 - 1: sendRequest(findTestObject("API method/Get-single-user"))
+2025-06-20 23:26:40.317 INFO  c.k.k.core.webservice.common.HarLogger   - HAR: C:\Users\param\Katalon Studio\API automation\Reports\20250620_232629\API automation\20250620_232629\requests\main\Get-single-user_2.har
+2025-06-20 23:26:40.323 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/get single user
+2025-06-20 23:26:40.422 INFO  c.k.katalon.core.main.TestSuiteExecutor  - --------------------
+2025-06-20 23:26:40.423 INFO  c.k.katalon.core.main.TestSuiteExecutor  - END Test Suites/API automation
+2025-06-20 23:26:40.423 INFO  c.k.katalon.core.main.TestSuiteExecutor  - ====================
